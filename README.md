@@ -23,7 +23,6 @@ Una aplicación web progresiva (PWA) diseñada para ayudar a los jugadores de **
 ## 📋 Requisitos
 
 - Navegador moderno con soporte para PWA (Chrome, Firefox, Safari, Edge).
-- Conexión a internet para la primera carga (posteriormente funciona offline).
 
 ## 🚀 Instalación y Uso
 
