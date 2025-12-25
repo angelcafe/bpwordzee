@@ -17,7 +17,6 @@ Una aplicación web progresiva (PWA) diseñada para ayudar a los jugadores de **
 - **HTML5**: Estructura de la aplicación.
 - **CSS3** (Bootstrap): Estilos y diseño responsive.
 - **JavaScript** (Vanilla): Lógica de búsqueda de palabras y funcionalidad.
-- **Service Worker**: Cache y modo offline.
 - **Web App Manifest**: Configuración PWA.
 - **Apache/.htaccess**: Configuración del servidor para SPA.
 
