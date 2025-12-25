@@ -11,8 +11,6 @@ Una aplicación web progresiva (PWA) diseñada para ayudar a los jugadores de **
 - **Puntos extra**: Calcula automáticamente los puntos extra por longitud de palabra (3, 4, 5 letras).
 - **Interfaz intuitiva**: Diseño responsive y fácil de usar, optimizado para móviles y escritorio.
 - **Instalable como app**: Compatible con PWA, se puede instalar en dispositivos móviles y navegadores compatibles.
-- **Multidioma**: Interfaz en español.
-- **Compartible**: Incluye enlaces a comunidades de Wordzee! en Facebook y Telegram.
 
 ## 🛠️ Tecnologías Utilizadas
 
