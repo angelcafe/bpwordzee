@@ -24,25 +24,11 @@ Una aplicación web progresiva (PWA) diseñada para ayudar a los jugadores de **
 
 - Navegador moderno con soporte para PWA (Chrome, Firefox, Safari, Edge).
 
-## 🚀 Instalación y Uso
+## 🚀 Uso
 
-### Opción 1: Usar Online
 1. Visita la URL del proyecto desplegado (ej: `https://angelcastro.es/bpwordzee/`).
 2. La app se cargará automáticamente.
 3. Para instalar como PWA: En el navegador, haz clic en "Instalar" o "Añadir a pantalla de inicio" (disponible en móviles).
-
-### Opción 2: Ejecutar Localmente
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/angelcafe/bpwordzee.git
-   cd bpwordzee
-   ```
-
-2. Abre `index.html` en un navegador web local (o usa un servidor local como Live Server en VS Code).
-
-3. Para simular un servidor Apache (opcional, para probar .htaccess):
-   - Instala XAMPP o similar.
-   - Coloca la carpeta en `htdocs` y accede vía `localhost/bpwordzee`.
 
 ### Uso de la App
 1. **Ingresa letras disponibles**: Escribe las letras que tienes en el campo correspondiente.
