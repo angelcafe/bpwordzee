@@ -1,0 +1,41 @@
+.info {
+    background-color: #0dcaf0;
+}
+
+.palenc {
+    cursor: pointer;
+}
+
+.rosa {
+    background-color: pink;
+}
+
+.noselect {
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+#principal {
+    max-width: 21.5rem;
+    min-width: 21.5rem;
+}
+
+#principal .btn-secondary {
+    width: 2.835rem;
+}
+
+/* Botón de instalación minimalista en el encabezado */
+#btnInstalarHeader {
+    border-radius: 6px;
+    padding: 0.25rem 0.4rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 32px;
+}
+
+#btnInstalarHeader:hover {
+    transform: translateY(-1px);
+}
